@@ -1,0 +1,19 @@
+.title {
+  background-color: #E0E0E0;
+  height: 30px;
+  border-bottom: 1px solid black;
+  padding: 5px;
+}
+
+.list-item {
+  border-style: outset;
+}
+
+.filler {
+  height: 200px;
+}
+
+.posting-container {
+  border: 1px solid black;
+  margin-top: 20px;
+}

@@ -1,0 +1,32 @@
+.pet-container {
+  background-color: #BDBDBD;
+  border: 1px solid black;
+  height: auto;
+  margin-top: 40px;
+}
+
+h1 {
+  padding: 10px;
+}
+
+.pet-picture {
+  height: 250px;
+  border-radius: 25%;
+}
+
+.pet-picture img {
+  height: 100%;
+  width: 100%;
+  border-radius: 25%;
+}
+
+.view-all-button {
+  padding: 10px;
+  font-size: 20px;
+  width: 200px;
+}
+
+.view-all-container {
+  margin: 50px;
+  margin-bottom: 25px;
+}
